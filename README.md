@@ -1,5 +1,8 @@
 # ai-industry-2
 
+
+This paragraph is about Kaveh
+
 New project
 This is AI in industry class.
 
