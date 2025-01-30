@@ -1,5 +1,6 @@
 # ai-industry-2
 
+New project
 This is AI in industry class.
 
 
