@@ -1,5 +1,6 @@
 # ai-industry-2
 
+This is AI in industry class.
 
 This paragraph is about Kaveh
 
